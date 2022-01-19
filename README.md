@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Urwid, Django, ML and DSA
 - 👯 I’m looking to collaborate on coding competitions
 - 🤔 I’m looking for help with pytest
-- 📫 How to reach me: [Text me on LinkedIn](www.linkedin.com/in/dishti-oberai)
+- 📫 How to reach me: [Text me on LinkedIn] - www.linkedin.com/in/dishti-oberai
 - 😄 Pronouns: she/her
 
 <hr />
