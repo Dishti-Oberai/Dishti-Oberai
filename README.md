@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on developing a project portal and the FIT-GAME web application
-- 🌱 I’m currently learning Django, ML and DSA
+- 🌱 I’m currently learning Urwid, Django, ML and DSA
 - 👯 I’m looking to collaborate on coding competitions
 - 🤔 I’m looking for help with pytest
 - 📫 How to reach me: [Text me on LinkedIn](www.linkedin.com/in/dishti-oberai)
