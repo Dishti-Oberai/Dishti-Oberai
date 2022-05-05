@@ -30,5 +30,5 @@
   <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> <img src="https://thumbs.dreamstime.com/b/machine-learning-icon-two-color-design-red-black-style-elements-icons-collection-creative-web-apps-software-print-144659464.jpg" alt="ML" width="90" height="90"/> </a>
 </p>
 
-<pre><code>Continued here.
+$<pre><code>Continued here.
 </code></pre>
