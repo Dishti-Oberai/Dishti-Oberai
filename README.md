@@ -10,7 +10,7 @@
 
 <hr />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300" height="200" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="280" height="200" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dishti-Oberai&show_icons=true&theme=radical)
 
