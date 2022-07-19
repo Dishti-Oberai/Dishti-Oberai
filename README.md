@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there 👋 Dishti Oberai this side! </h1>
 
 
-- 🔭 I’m currently working on [Zulip Terminal](https://github.com/zulip/zulip-terminal).
-- 🌱 I’m currently learning Urwid, Django, ML and DSA
+- 🔭 I’m currently working on enhancing my development skills.
+- 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on coding competitions
 - 🤔 I’m looking for help with pytest
 - 📫 How to reach me: www.linkedin.com/in/dishti-oberai
