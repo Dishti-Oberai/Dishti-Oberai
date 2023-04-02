@@ -1,10 +1,10 @@
 <h1 align="center"> Hi there 👋 Dishti Oberai this side! </h1>
 
 
-- 🔭 I’m currently working on enhancing my development skills.
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on coding competitions
-- 🤔 I’m looking for help with pytest
+- 🔭 I’m currently working on enhancing my development and DSA skills.
+- 🌱 I’m currently learning Blockchain and Virtual Reality.
+- 👯 I’m looking to collaborate on programming competitions.
+- 🤔 I’m looking for help with implementation of blockchain on AWS
 - 📫 How to reach me: www.linkedin.com/in/dishti-oberai
 - 😄 Pronouns: she/her
 
