@@ -113,7 +113,9 @@ Branch into parallel auto-scored approaches, backtrack without losing work, ques
   <img src="https://img.shields.io/badge/Anthropic%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic API">&nbsp;
   <img src="https://img.shields.io/badge/MCP-534AB7?style=for-the-badge" alt="MCP">&nbsp;
   <img src="https://img.shields.io/badge/Prompt%20caching-534AB7?style=for-the-badge" alt="Prompt caching">&nbsp;
-  <img src="https://img.shields.io/badge/Agent%20evaluation-534AB7?style=for-the-badge" alt="Agent evaluation">
+  <img src="https://img.shields.io/badge/Agent%20evaluation-534AB7?style=for-the-badge" alt="Agent evaluation">&nbsp;
+  <img src="https://img.shields.io/badge/Agentic%20workflows-534AB7?style=for-the-badge" alt="Agentic workflows">&nbsp;
+  <img src="https://img.shields.io/badge/LLM--as--judge-534AB7?style=for-the-badge" alt="LLM-as-judge">
 </td>
 </tr>
 <tr>
@@ -137,7 +139,8 @@ Branch into parallel auto-scored approaches, backtrack without losing work, ques
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest">&nbsp;
   <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white" alt="uv">&nbsp;
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
 </td>
 </tr>
 </table>
