@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dishti-oberai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <!-- <a href="MEDIUM_URL"><img src="https://img.shields.io/badge/Medium-000?style=flat&logo=medium&logoColor=white" alt="Medium"></a> -->
-  <!-- <a href="YOUTUBE_URL"><img src="https://img.shields.io/badge/Demos-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube demos"></a> -->
+  <a href="https://www.youtube.com/@dishtioberai1994"><img src="https://img.shields.io/badge/Demos-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube demos"></a>
   <img src="https://img.shields.io/badge/London-555?style=flat&logo=googlemaps&logoColor=white" alt="London">
 </p>
 
