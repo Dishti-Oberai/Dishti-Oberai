@@ -32,16 +32,6 @@
   <img src="https://img.shields.io/badge/license-MIT-555?style=flat-square" alt="MIT">
 </p>
 
-A deterministic 11-stage pipeline in front of Anthropic API calls that trims what's sent *and* what comes back — no model calls in the core path. Measured across 4 live API runs on repeated multi-turn conversations.
-
-<img src="https://github.com/Dishti-Oberai/tokenetics/raw/main/docs/screenshots/dashboard-overview.png" width="100%" alt="Tokenetics dashboard showing measured token savings">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">&nbsp;
-  <img src="https://img.shields.io/badge/Anthropic%20API-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic API">&nbsp;
-  <img src="https://img.shields.io/badge/MCP-534AB7?style=flat-square" alt="MCP">
-</p>
-
 </td>
 <td width="50%" valign="top">
 
@@ -53,10 +43,46 @@ A deterministic 11-stage pipeline in front of Anthropic API calls that trims wha
   <img src="https://img.shields.io/badge/VS%20Code-extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code extension">
 </p>
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+A deterministic 11-stage pipeline in front of Anthropic API calls that trims what's sent *and* what comes back — no model calls in the core path. Measured across 4 live API runs on repeated multi-turn conversations.
+
+</td>
+<td width="50%" valign="top">
+
 Branch into parallel auto-scored approaches, backtrack without losing work, question past decisions, merge two branches into one. Scored with real unit tests.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="middle">
+
+<img src="https://github.com/Dishti-Oberai/tokenetics/raw/main/docs/screenshots/dashboard-overview.png" width="100%" alt="Tokenetics dashboard showing measured token savings">
+
+</td>
+<td width="50%" valign="middle">
 
 <img src="https://github.com/Dishti-Oberai/branch-out/raw/main/docs/demo.gif" width="100%" alt="Branch-Out demo: branching, picking and backtracking in VS Code">
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">&nbsp;
+  <img src="https://img.shields.io/badge/Anthropic%20API-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic API">&nbsp;
+  <img src="https://img.shields.io/badge/MCP-534AB7?style=flat-square" alt="MCP">
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">&nbsp;
   <img src="https://img.shields.io/badge/React%20Flow-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Flow">&nbsp;
